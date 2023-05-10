@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Source\\Repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Source\\Repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj",
         "projectName": "TwitterTowers",
-        "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\TwitterTowers.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\home\\homeWork_Hadasim\\TwitterTowers\\TwitterTowers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
