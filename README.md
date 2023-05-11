@@ -10,6 +10,7 @@
 דוגמאת בקשת get:
 ![image](https://github.com/Tamar6465/homeWork_Hadasim/assets/91901425/cd47245c-0384-4276-bd61-899f244d4d71)
 דוגמאת בקשת post:
+![image](https://github.com/Tamar6465/homeWork_Hadasim/assets/91901425/6ad268b3-ef33-4adb-87d9-57c5db99de07)
 
 בטבלת vaccineemployee:
 דוגמאת בקשת get:
